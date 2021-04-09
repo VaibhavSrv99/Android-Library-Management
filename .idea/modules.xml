@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Login_Git.iml" filepath="$PROJECT_DIR$/Login_Git.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Android-Library-Management.iml" filepath="$PROJECT_DIR$/.idea/Android-Library-Management.iml" />
     </modules>
   </component>
 </project>
